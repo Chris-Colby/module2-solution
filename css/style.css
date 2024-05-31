@@ -50,6 +50,7 @@ h3{
 
 
   /********** DESKTOP - Large devices only **********/
+
 @media (min-width: 992px) {
    .col-lg-4 {
     float: left;
@@ -76,6 +77,7 @@ h3{
 
 
   /********** PHONE - Large devices only **********/
+  
 @media (max-width: 767px) {
 .col-sm-12 {
     float: left;
